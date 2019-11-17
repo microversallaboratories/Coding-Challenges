@@ -1,0 +1,10 @@
+# Daily-Challenges
+Daily challenges and solutions to coding problems, to build my problem-solving skills.
+
+Welcome! This is a place I use to showcase my programming forte by consistently producing code in the forms of "Daily challenges" for interview questions or otherwise.
+
+This repo is separated into two main categories:
+1. Interview questions - From dailycodingchallenge.com
+2. Random problems - Questions I'm interested in solving as I go through my daily life
+
+Thanks for checking out my repo, and feel free to contact me if you don't like my solutions to these problems, or if you have a better way to solve the problem!
