@@ -7,7 +7,7 @@ Languages:
 I will be using C++ and Python primarily as I start working through the challenges. As I build knowledge in other languages, I will add code that incorporates their language. 
 
 Compilers:
-- C++ : Unless otherwise noted, I am using the most recent version of G++
+- C++ : Unless otherwise noted, I am using the most recent version of G++ available at: https://aur.archlinux.org/packages/mingw-w64-gcc/
 
 This repo is separated into two main categories:
 1. Interview questions - From dailycodingchallenge.com
