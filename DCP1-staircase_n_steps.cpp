@@ -24,7 +24,7 @@ int main(){
 	int n;
 	cout << "Enter a value for n: ";
 	cin >> n;
-	cout << fibo(n) << endl;
+	cout << fibo(n) << "unique ways to climb the staircase." << endl;
 	
 	return 0;
 }
