@@ -1,7 +1,7 @@
-# Daily-Challenges
-Daily challenges and solutions to coding problems, to build my problem-solving skills.
+# Coding Challenges
+Solutions to periodic coding problems used to build my problem-solving skills.
 
-Welcome! This is a place I use to showcase my programming forte by consistently producing code in the forms of "Daily challenges" for interview questions or otherwise.
+Welcome! I use this space to showcase my programming abilities by producing solutions to coding problems commonly used for interview questions or otherwise.
 
 Languages:
 I will be using C++ and Python primarily as I start working through the challenges. As I build knowledge in other languages, I will add code that incorporates their language. 
