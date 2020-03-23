@@ -3,7 +3,7 @@
 #Follow-up: what if you can't use division?
 
 #Using list exclusion:
-input_list = [1,2,3,4,5]
+input_list = [1,2,3,4,5,6,7]
 output_list = [1] * len(input_list)
 
 il = list(range(len(input_list)))   #Form index lists
